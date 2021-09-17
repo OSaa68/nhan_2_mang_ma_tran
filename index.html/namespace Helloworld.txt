@@ -1,0 +1,10 @@
+namespace Helloworld
+{
+    class Hello
+    {
+       static void main (string[]args)
+       {
+        SysTem.Console.WriteLine("lap trinh khong kho!");
+       }
+    }
+}
